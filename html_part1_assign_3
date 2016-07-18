@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Assignment 2</title>
+  </head>
+  <body>
+    <span>CO<sub>2</sub></span>
+    <span>H<sup>2</sup>O</span>
+  </body>
+</html>
